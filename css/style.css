@@ -1855,8 +1855,8 @@ header a.logo img {
    Testimonial
 ====================================== */
 
-.testimonial-bg {
-    background-image: url("../images/testimonial-bg.jpg");
+.projects-bg {
+    background-image: url("../images/projects-bg.jpg");
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2074,7 +2074,7 @@ header a.logo img {
         right: -5%;
     }
     /* Testimonial */
-    .testimonial-bg .heading-row {
+    .projects-bg .heading-row {
         padding-bottom: 0!important;
     }
     .paragraph {
@@ -2143,7 +2143,7 @@ header a.logo img {
     .testimonial-owl .owl-dots {
         margin-top: 0!important;
     }
-    .testimonial-bg .heading-row {
+    .projects-bg .heading-row {
         padding-top: 0!important;
         padding-bottom: 0!important;
     }
