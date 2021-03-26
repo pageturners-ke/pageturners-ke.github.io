@@ -22,7 +22,7 @@ $(window).on("load", function () {
         $('#pagepiling').pagepiling({
             direction: 'vertical',
             sectionsColor: ['#171717', '#171717', '#171717', '#171717', '#171717', '#171717'],
-            anchors: ['home', 'about', 'team', 'projects', 'story', 'mentorship', 'contact'],
+            anchors: ['home', 'about', 'team', 'projects', 'mentorship', 'story', 'contact'],
             scrollingSpeed: 500,
             easing: 'linear',
             loopBottom: false,
